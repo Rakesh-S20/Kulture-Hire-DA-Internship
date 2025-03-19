@@ -23,7 +23,7 @@ Focuses on respondents' higher education preferences, learning modes, and the in
 ![Learning Aspirations Dashboard](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Learning%20Aspirations.jpg)
 ### 2. Manager Aspirations Dashboard  
 Analyzes respondents' expectations from managers, willingness to work under high-pressure environments, and salary expectations.
-![Manager Aspirations Dashboard](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Manager%20Aspirations.png) 
+![Manager Aspirations Dashboard][(https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Manager%20Aspirations.jpg)]
 
 ### 3. Mission Aspirations Dashboard  
 Explores respondents' preferences regarding companies with socially impactful missions, transparency, and mission alignment.  
