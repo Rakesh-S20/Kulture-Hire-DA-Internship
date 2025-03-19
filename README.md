@@ -41,4 +41,4 @@ Explores respondents' preferences regarding companies with socially impactful mi
 
 ## Presentation  
 The findings and recommendations were compiled into a professional PowerPoint presentation, showcasing key insights through a visual narrative.  
-Download the PowerPoint presentation here: [Career Aspirations of Gen Z Presentation]
+Download the PowerPoint presentation here: [Career Aspirations of Gen Z Presentation](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/GenZ%20Career%20Aspirations%20PPT.pptx)
