@@ -37,4 +37,8 @@ Explores respondents' preferences regarding companies with socially impactful mi
 ## Recommendations  
 - Companies should invest in CSR initiatives and maintain clear communication of their mission.  
 - Organizations must offer structured learning opportunities and provide financial support for higher education when possible.  
-- Managers should focus on transparent, goal-driven leadership to retain Gen Z employees.  
+- Managers should focus on transparent, goal-driven leadership to retain Gen Z employees.
+
+## Presentation  
+The findings and recommendations were compiled into a professional PowerPoint presentation, showcasing key insights through a visual narrative.  
+Download the PowerPoint presentation here: [Career Aspirations of Gen Z Presentation]
