@@ -1,6 +1,5 @@
 # Career Aspirations of Gen Z: Insights & Analysis
 KultureHire-DA-Internship
-# Career Aspirations of Gen Z: Insights & Analysis  
 
 ## Project Overview  
 This project analyzes survey data collected from Gen Z respondents to uncover insights into their career aspirations, learning preferences, and managerial expectations. The study aims to provide organizations with actionable insights to better align their practices with the evolving needs of the workforce.  
