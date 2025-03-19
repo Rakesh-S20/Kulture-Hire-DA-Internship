@@ -1,21 +1,42 @@
 # Career Aspirations of Gen Z: Insights & Analysis
 KultureHire-DA-Internship
-/gen-z-career-analysis
-│
-├── data/
-│   └── gen_z_career_survey.csv  # Raw survey data
-│
-├── sql/
-│   └── gen_z_career_survey_analysis.sql  # SQL queries for data extraction and analysis
-│
-├── python/
-│   ├── data_cleaning_analysis.py  # Python script for data cleaning and analysis
-│   ├── excel_dashboard_creation.py  # Python script to export to Excel
-│   └── pptx_creation.py  # Python script to generate PowerPoint
-│
-├── output/
-│   ├── career_preferences_by_age.png  # Visualization output for career preferences
-│   ├── manager_expectations_by_education.png  # Visualization output for manager expectations
-│   └── Gen_Z_Career_Aspirations_Presentation.pptx  # Generated PowerPoint presentation
-│
-└── README.md  # Overview of the project and setup instructions
+# Career Aspirations of Gen Z: Insights & Analysis  
+
+## Project Overview  
+This project analyzes survey data collected from Gen Z respondents to uncover insights into their career aspirations, learning preferences, and managerial expectations. The study aims to provide organizations with actionable insights to better align their practices with the evolving needs of the workforce.  
+
+## Tools Used  
+- **Microsoft Excel**: Data cleaning, transformation, analysis, and interactive dashboard creation.  
+- **SQL**: Data analysis for extracting deeper insights.  
+- **Microsoft PowerPoint**: Presentation of key findings and recommendations.  
+
+## Skills Gained  
+- Data cleaning, transformation, and standardization in Excel  
+- Analysis using SQL queries  
+- Interactive dashboard creation in Excel  
+- Advanced charting and visualization techniques  
+- Storytelling through PowerPoint presentations  
+- Insights generation and strategic recommendations  
+
+## Key Dashboards  
+### 1. Learning Aspirations Dashboard  
+Focuses on respondents' higher education preferences, learning modes, and the influence of external factors like parents and peers. 
+
+
+### 2. Manager Aspirations Dashboard  
+Analyzes respondents' expectations from managers, willingness to work under high-pressure environments, and salary expectations.
+
+
+### 3. Mission Aspirations Dashboard  
+Explores respondents' preferences regarding companies with socially impactful missions, transparency, and mission alignment.  
+
+
+## Key Findings  
+- **Learning Aspirations**: Most respondents aspire to pursue higher education, with affordability being a key concern.  
+- **Manager Preferences**: Structured, transparent leadership with clear expectations is highly valued.  
+- **Mission Alignment**: A strong preference for companies with socially impactful and transparent missions.  
+
+## Recommendations  
+- Companies should invest in CSR initiatives and maintain clear communication of their mission.  
+- Organizations must offer structured learning opportunities and provide financial support for higher education when possible.  
+- Managers should focus on transparent, goal-driven leadership to retain Gen Z employees.  
