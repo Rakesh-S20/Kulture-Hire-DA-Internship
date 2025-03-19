@@ -20,7 +20,7 @@ This project analyzes survey data collected from Gen Z respondents to uncover in
 ## Key Dashboards  
 ### 1. Learning Aspirations Dashboard  
 Focuses on respondents' higher education preferences, learning modes, and the influence of external factors like parents and peers. 
-
+![Learning Aspirations Dashboard](https://github.com/KomalSharma0/Career-Aspirations-of-Gen-Z/blob/main/Learning%20Aspirations.png)
 
 ### 2. Manager Aspirations Dashboard  
 Analyzes respondents' expectations from managers, willingness to work under high-pressure environments, and salary expectations.
