@@ -20,14 +20,14 @@ This project analyzes survey data collected from Gen Z respondents to uncover in
 ## Key Dashboards  
 ### 1. Learning Aspirations Dashboard  
 Focuses on respondents' higher education preferences, learning modes, and the influence of external factors like parents and peers. 
-![Learning Aspirations Dashboard]
+![Learning Aspirations Dashboard](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Learning%20Aspirations.jpg)
 ### 2. Manager Aspirations Dashboard  
 Analyzes respondents' expectations from managers, willingness to work under high-pressure environments, and salary expectations.
-
+![Manager Aspirations Dashboard](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Manager%20Aspirations.png) 
 
 ### 3. Mission Aspirations Dashboard  
 Explores respondents' preferences regarding companies with socially impactful missions, transparency, and mission alignment.  
-
+![Mission Aspirations Dashboard](https://github.com/Rakesh-S20/KultureHire-DA-Internship/blob/main/Mission%20Aspirations.png)
 
 ## Key Findings  
 - **Learning Aspirations**: Most respondents aspire to pursue higher education, with affordability being a key concern.  
